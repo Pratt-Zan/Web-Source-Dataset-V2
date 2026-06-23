@@ -1,0 +1,2002 @@
+[
+  {
+    "companyname": "Pinnacle West Capital Corporation",
+    "weburl": "www.pinnaclewest.com"
+  },
+  {
+    "companyname": "Abbott Laboratories",
+    "weburl": "www.abbott.com"
+  },
+  {
+    "companyname": "Advanced Micro Devices, Inc.",
+    "weburl": "www.amd.com"
+  },
+  {
+    "companyname": "Air Products and Chemicals, Inc.",
+    "weburl": "www.airproducts.com"
+  },
+  {
+    "companyname": "Honeywell International Inc.",
+    "weburl": "www.honeywell.com"
+  },
+  {
+    "companyname": "Skyworks Solutions, Inc.",
+    "weburl": "www.skyworksinc.com"
+  },
+  {
+    "companyname": "American Electric Power Company, Inc.",
+    "weburl": "www.aep.com"
+  },
+  {
+    "companyname": "American Express Company",
+    "weburl": "www.americanexpress.com"
+  },
+  {
+    "companyname": "Aflac Incorporated",
+    "weburl": "www.aflac.com"
+  },
+  {
+    "companyname": "American International Group, Inc.",
+    "weburl": "www.aig.com"
+  },
+  {
+    "companyname": "AMETEK, Inc.",
+    "weburl": "www.ametek.com"
+  },
+  {
+    "companyname": "Amgen Inc.",
+    "weburl": "www.amgen.com"
+  },
+  {
+    "companyname": "Analog Devices, Inc.",
+    "weburl": "www.analog.com"
+  },
+  {
+    "companyname": "APA Corporation",
+    "weburl": "www.apacorp.com"
+  },
+  {
+    "companyname": "Apple Inc.",
+    "weburl": "www.apple.com"
+  },
+  {
+    "companyname": "Applied Materials, Inc.",
+    "weburl": "www.appliedmaterials.com"
+  },
+  {
+    "companyname": "Archer-Daniels-Midland Company",
+    "weburl": "www.adm.com"
+  },
+  {
+    "companyname": "Autodesk, Inc.",
+    "weburl": "www.autodesk.com"
+  },
+  {
+    "companyname": "Automatic Data Processing, Inc.",
+    "weburl": "www.adp.com"
+  },
+  {
+    "companyname": "Avery Dennison Corporation",
+    "weburl": "www.averydennison.com"
+  },
+  {
+    "companyname": "Ball Corporation",
+    "weburl": "www.ball.com"
+  },
+  {
+    "companyname": "The Bank of New York Mellon Corporation",
+    "weburl": "www.bny.com"
+  },
+  {
+    "companyname": "Baxter International Inc.",
+    "weburl": "www.baxter.com"
+  },
+  {
+    "companyname": "Becton, Dickinson and Company",
+    "weburl": "www.bd.com"
+  },
+  {
+    "companyname": "Verizon Communications Inc.",
+    "weburl": "www.verizon.com"
+  },
+  {
+    "companyname": "Berkshire Hathaway Inc.",
+    "weburl": "www.berkshirehathaway.com"
+  },
+  {
+    "companyname": "Best Buy Co., Inc.",
+    "weburl": "corporate.bestbuy.com"
+  },
+  {
+    "companyname": "The Boeing Company",
+    "weburl": "www.boeing.com"
+  },
+  {
+    "companyname": "Bristol-Myers Squibb Company",
+    "weburl": "www.bms.com"
+  },
+  {
+    "companyname": "Brown-Forman Corporation",
+    "weburl": "www.brown-forman.com"
+  },
+  {
+    "companyname": "The Cigna Group",
+    "weburl": "www.thecignagroup.com"
+  },
+  {
+    "companyname": "CSX Corporation",
+    "weburl": "www.csx.com"
+  },
+  {
+    "companyname": "The Campbell's Company",
+    "weburl": "www.thecampbellscompany.com"
+  },
+  {
+    "companyname": "Constellation Brands, Inc.",
+    "weburl": "www.cbrands.com"
+  },
+  {
+    "companyname": "Cardinal Health, Inc.",
+    "weburl": "www.cardinalhealth.com"
+  },
+  {
+    "companyname": "Casey's General Stores, Inc.",
+    "weburl": "www.caseys.com"
+  },
+  {
+    "companyname": "Caterpillar Inc.",
+    "weburl": "www.caterpillar.com"
+  },
+  {
+    "companyname": "JPMorgan Chase & Co.",
+    "weburl": "www.jpmorganchase.com"
+  },
+  {
+    "companyname": "Chevron Corporation",
+    "weburl": "www.chevron.com"
+  },
+  {
+    "companyname": "Church & Dwight Co., Inc.",
+    "weburl": "www.churchdwight.com"
+  },
+  {
+    "companyname": "Cintas Corporation",
+    "weburl": "www.cintas.com"
+  },
+  {
+    "companyname": "The Clorox Company",
+    "weburl": "www.thecloroxcompany.com"
+  },
+  {
+    "companyname": "The Coca-Cola Company",
+    "weburl": "www.coca-colacompany.com"
+  },
+  {
+    "companyname": "Colgate-Palmolive Company",
+    "weburl": "www.colgatepalmolive.com"
+  },
+  {
+    "companyname": "Aon plc",
+    "weburl": "www.aon.com"
+  },
+  {
+    "companyname": "Comcast Corporation",
+    "weburl": "corporate.comcast.com"
+  },
+  {
+    "companyname": "Citigroup Inc.",
+    "weburl": "www.citigroup.com"
+  },
+  {
+    "companyname": "Conagra Brands, Inc.",
+    "weburl": "www.conagrabrands.com"
+  },
+  {
+    "companyname": "Consolidated Edison, Inc.",
+    "weburl": "www.conedison.com"
+  },
+  {
+    "companyname": "CMS Energy Corporation",
+    "weburl": "www.cmsenergy.com"
+  },
+  {
+    "companyname": "The Cooper Companies, Inc.",
+    "weburl": "www.coopercos.com"
+  },
+  {
+    "companyname": "Molson Coors Beverage Company",
+    "weburl": "www.molsoncoors.com"
+  },
+  {
+    "companyname": "Corning Incorporated",
+    "weburl": "www.corning.com"
+  },
+  {
+    "companyname": "Cummins Inc.",
+    "weburl": "www.cummins.com"
+  },
+  {
+    "companyname": "Danaher Corporation",
+    "weburl": "www.danaher.com"
+  },
+  {
+    "companyname": "Target Corporation",
+    "weburl": "corporate.target.com"
+  },
+  {
+    "companyname": "Deere & Company",
+    "weburl": "www.deere.com/en"
+  },
+  {
+    "companyname": "Delta Air Lines, Inc.",
+    "weburl": "www.delta.com"
+  },
+  {
+    "companyname": "DTE Energy Company",
+    "weburl": "www.dteenergy.com"
+  },
+  {
+    "companyname": "The Walt Disney Company",
+    "weburl": "thewaltdisneycompany.com"
+  },
+  {
+    "companyname": "Dollar General Corporation",
+    "weburl": "www.dollargeneral.com"
+  },
+  {
+    "companyname": "Dominion Energy, Inc.",
+    "weburl": "www.dominionenergy.com"
+  },
+  {
+    "companyname": "Dover Corporation",
+    "weburl": "www.dovercorporation.com"
+  },
+  {
+    "companyname": "DuPont de Nemours, Inc.",
+    "weburl": "www.dupont.com"
+  },
+  {
+    "companyname": "Omnicom Group Inc.",
+    "weburl": "www.omc.com"
+  },
+  {
+    "companyname": "Duke Energy Corporation",
+    "weburl": "www.duke-energy.com/home"
+  },
+  {
+    "companyname": "Revvity, Inc.",
+    "weburl": "www.revvity.com"
+  },
+  {
+    "companyname": "Eaton Corporation plc",
+    "weburl": "www.eaton.com"
+  },
+  {
+    "companyname": "Ecolab Inc.",
+    "weburl": "www.ecolab.com"
+  },
+  {
+    "companyname": "Emerson Electric Co.",
+    "weburl": "www.emerson.com"
+  },
+  {
+    "companyname": "Atmos Energy Corporation",
+    "weburl": "www.atmosenergy.com"
+  },
+  {
+    "companyname": "Equifax Inc.",
+    "weburl": "www.equifax.com"
+  },
+  {
+    "companyname": "EQT Corporation",
+    "weburl": "www.eqt.com"
+  },
+  {
+    "companyname": "Expeditors International of Washington, Inc.",
+    "weburl": "www.expeditors.com"
+  },
+  {
+    "companyname": "Exxon Mobil Corporation",
+    "weburl": "corporate.exxonmobil.com"
+  },
+  {
+    "companyname": "NextEra Energy, Inc.",
+    "weburl": "www.nexteraenergy.com"
+  },
+  {
+    "companyname": "FedEx Corporation",
+    "weburl": "www.fedex.com"
+  },
+  {
+    "companyname": "Federal Realty Investment Trust",
+    "weburl": "www.federalrealty.com"
+  },
+  {
+    "companyname": "Fifth Third Bancorp",
+    "weburl": "www.53.com"
+  },
+  {
+    "companyname": "Regions Financial Corporation",
+    "weburl": "www.regions.com"
+  },
+  {
+    "companyname": "M&T Bank Corporation",
+    "weburl": "www.mtb.com"
+  },
+  {
+    "companyname": "U.S. Bancorp",
+    "weburl": "www.usbank.com"
+  },
+  {
+    "companyname": "Ford Motor Company",
+    "weburl": "www.ford.com"
+  },
+  {
+    "companyname": "Franklin Resources, Inc.",
+    "weburl": "www.franklinresources.com"
+  },
+  {
+    "companyname": "Arthur J. Gallagher & Co.",
+    "weburl": "www.ajg.com"
+  },
+  {
+    "companyname": "General Dynamics Corporation",
+    "weburl": "www.gd.com"
+  },
+  {
+    "companyname": "General Electric Company",
+    "weburl": "www.geaerospace.com"
+  },
+  {
+    "companyname": "General Mills, Inc.",
+    "weburl": "www.generalmills.com"
+  },
+  {
+    "companyname": "General Motors Company",
+    "weburl": "www.gm.com"
+  },
+  {
+    "companyname": "Genuine Parts Company",
+    "weburl": "www.genpt.com"
+  },
+  {
+    "companyname": "W.W. Grainger, Inc.",
+    "weburl": "www.grainger.com"
+  },
+  {
+    "companyname": "Halliburton Company",
+    "weburl": "www.halliburton.com"
+  },
+  {
+    "companyname": "L3Harris Technologies, Inc.",
+    "weburl": "www.l3harris.com"
+  },
+  {
+    "companyname": "Hasbro, Inc.",
+    "weburl": "corporate.hasbro.com"
+  },
+  {
+    "companyname": "Welltower Inc.",
+    "weburl": "www.welltower.com"
+  },
+  {
+    "companyname": "The Kraft Heinz Company",
+    "weburl": "www.kraftheinzcompany.com"
+  },
+  {
+    "companyname": "The Hershey Company",
+    "weburl": "www.thehersheycompany.com"
+  },
+  {
+    "companyname": "HP Inc.",
+    "weburl": "www.hp.com"
+  },
+  {
+    "companyname": "Hilton Worldwide Holdings Inc.",
+    "weburl": "www.hilton.com"
+  },
+  {
+    "companyname": "The Home Depot, Inc.",
+    "weburl": "www.homedepot.com"
+  },
+  {
+    "companyname": "Hormel Foods Corporation",
+    "weburl": "www.hormelfoods.com"
+  },
+  {
+    "companyname": "CenterPoint Energy, Inc.",
+    "weburl": "www.centerpointenergy.com"
+  },
+  {
+    "companyname": "Hubbell Incorporated",
+    "weburl": "www.hubbell.com"
+  },
+  {
+    "companyname": "J.B. Hunt Transport Services, Inc.",
+    "weburl": "www.jbhunt.com"
+  },
+  {
+    "companyname": "Huntington Bancshares Incorporated",
+    "weburl": "www.huntington.com"
+  },
+  {
+    "companyname": "Illinois Tool Works Inc.",
+    "weburl": "www.itw.com"
+  },
+  {
+    "companyname": "Trane Technologies plc",
+    "weburl": "www.tranetechnologies.com"
+  },
+  {
+    "companyname": "Intel Corporation",
+    "weburl": "www.intel.com"
+  },
+  {
+    "companyname": "International Business Machines Corporation",
+    "weburl": "www.ibm.com"
+  },
+  {
+    "companyname": "International Flavors & Fragrances Inc.",
+    "weburl": "www.iff.com"
+  },
+  {
+    "companyname": "International Paper Company",
+    "weburl": "www.internationalpaper.com"
+  },
+  {
+    "companyname": "Jacobs Solutions Inc.",
+    "weburl": "www.jacobs.com"
+  },
+  {
+    "companyname": "EMCOR Group, Inc.",
+    "weburl": "emcorgroup.com"
+  },
+  {
+    "companyname": "Johnson & Johnson",
+    "weburl": "www.jnj.com"
+  },
+  {
+    "companyname": "Johnson Controls International plc",
+    "weburl": "www.johnsoncontrols.com"
+  },
+  {
+    "companyname": "KLA Corporation",
+    "weburl": "www.kla.com"
+  },
+  {
+    "companyname": "Kinder Morgan, Inc.",
+    "weburl": "www.kindermorgan.com"
+  },
+  {
+    "companyname": "Evergy, Inc.",
+    "weburl": "investors.evergy.com"
+  },
+  {
+    "companyname": "Kimberly-Clark Corporation",
+    "weburl": "www.kimberly-clark.com"
+  },
+  {
+    "companyname": "The Kroger Co.",
+    "weburl": "www.thekrogerco.com"
+  },
+  {
+    "companyname": "Lam Research Corporation",
+    "weburl": "www.lamresearch.com"
+  },
+  {
+    "companyname": "Lennar Corporation",
+    "weburl": "www.lennar.com"
+  },
+  {
+    "companyname": "Eli Lilly and Company",
+    "weburl": "www.lilly.com"
+  },
+  {
+    "companyname": "Lockheed Martin Corporation",
+    "weburl": "www.lockheedmartin.com"
+  },
+  {
+    "companyname": "Loews Corporation",
+    "weburl": "www.loews.com"
+  },
+  {
+    "companyname": "Lowe's Companies, Inc.",
+    "weburl": "corporate.lowes.com"
+  },
+  {
+    "companyname": "Host Hotels & Resorts, Inc.",
+    "weburl": "www.hosthotels.com"
+  },
+  {
+    "companyname": "Marsh & McLennan Companies, Inc.",
+    "weburl": "www.corporate.marsh.com"
+  },
+  {
+    "companyname": "Masco Corporation",
+    "weburl": "masco.com"
+  },
+  {
+    "companyname": "McCormick & Company, Incorporated",
+    "weburl": "www.mccormickcorporation.com"
+  },
+  {
+    "companyname": "McDonald's Corporation",
+    "weburl": "www.mcdonalds.com"
+  },
+  {
+    "companyname": "S&P Global Inc.",
+    "weburl": "www.spglobal.com"
+  },
+  {
+    "companyname": "McKesson Corporation",
+    "weburl": "www.mckesson.com"
+  },
+  {
+    "companyname": "Medtronic plc",
+    "weburl": "www.medtronic.com"
+  },
+  {
+    "companyname": "CVS Health Corporation",
+    "weburl": "www.cvshealth.com"
+  },
+  {
+    "companyname": "Merck & Co., Inc.",
+    "weburl": "www.merck.com"
+  },
+  {
+    "companyname": "Micron Technology, Inc.",
+    "weburl": "www.micron.com"
+  },
+  {
+    "companyname": "Entergy Corporation",
+    "weburl": "www.entergy.com"
+  },
+  {
+    "companyname": "3M Company",
+    "weburl": "www.3m.com"
+  },
+  {
+    "companyname": "Motorola Solutions, Inc.",
+    "weburl": "www.motorolasolutions.com"
+  },
+  {
+    "companyname": "Viatris Inc.",
+    "weburl": "www.viatris.com"
+  },
+  {
+    "companyname": "Bank of America Corporation",
+    "weburl": "www.bankofamerica.com"
+  },
+  {
+    "companyname": "Newmont Corporation",
+    "weburl": "www.newmont.com"
+  },
+  {
+    "companyname": "NIKE, Inc.",
+    "weburl": "www.nike.com"
+  },
+  {
+    "companyname": "Nordson Corporation",
+    "weburl": "www.nordson.com"
+  },
+  {
+    "companyname": "Norfolk Southern Corporation",
+    "weburl": "www.norfolksouthern.com"
+  },
+  {
+    "companyname": "Eversource Energy",
+    "weburl": "www.eversource.com"
+  },
+  {
+    "companyname": "NiSource Inc.",
+    "weburl": "www.nisource.com"
+  },
+  {
+    "companyname": "Xcel Energy Inc.",
+    "weburl": "www.my.xcelenergy.com/s"
+  },
+  {
+    "companyname": "Northern Trust Corporation",
+    "weburl": "www.northerntrust.com"
+  },
+  {
+    "companyname": "Northrop Grumman Corporation",
+    "weburl": "www.northropgrumman.com"
+  },
+  {
+    "companyname": "Wells Fargo & Company",
+    "weburl": "www.wellsfargo.com"
+  },
+  {
+    "companyname": "Nucor Corporation",
+    "weburl": "www.nucor.com"
+  },
+  {
+    "companyname": "Occidental Petroleum Corporation",
+    "weburl": "www.oxy.com"
+  },
+  {
+    "companyname": "FirstEnergy Corp.",
+    "weburl": "www.firstenergycorp.com"
+  },
+  {
+    "companyname": "ONEOK, Inc.",
+    "weburl": "www.oneok.com/"
+  },
+  {
+    "companyname": "The PNC Financial Services Group, Inc.",
+    "weburl": "www.pnc.com"
+  },
+  {
+    "companyname": "PPG Industries, Inc.",
+    "weburl": "www.ppg.com"
+  },
+  {
+    "companyname": "PACCAR Inc",
+    "weburl": "www.paccar.com"
+  },
+  {
+    "companyname": "PG&E Corporation",
+    "weburl": "www.pgecorp.com"
+  },
+  {
+    "companyname": "Sempra",
+    "weburl": "www.sempra.com"
+  },
+  {
+    "companyname": "Parker-Hannifin Corporation",
+    "weburl": "www.parker.com"
+  },
+  {
+    "companyname": "Paychex, Inc.",
+    "weburl": "www.paychex.com"
+  },
+  {
+    "companyname": "PPL Corporation",
+    "weburl": "www.pplweb.com"
+  },
+  {
+    "companyname": "Pentair plc",
+    "weburl": "www.pentair.com"
+  },
+  {
+    "companyname": "PepsiCo, Inc.",
+    "weburl": "www.pepsico.com"
+  },
+  {
+    "companyname": "Pfizer Inc.",
+    "weburl": "www.pfizer.com"
+  },
+  {
+    "companyname": "Exelon Corporation",
+    "weburl": "www.exeloncorp.com"
+  },
+  {
+    "companyname": "Altria Group, Inc.",
+    "weburl": "www.altria.com"
+  },
+  {
+    "companyname": "ConocoPhillips",
+    "weburl": "www.conocophillips.com"
+  },
+  {
+    "companyname": "The Procter & Gamble Company",
+    "weburl": "www.pginvestor.com"
+  },
+  {
+    "companyname": "Public Service Enterprise Group Incorporated",
+    "weburl": "investor.pseg.com"
+  },
+  {
+    "companyname": "PulteGroup, Inc.",
+    "weburl": "pultegroupinc.com"
+  },
+  {
+    "companyname": "Raymond James Financial, Inc.",
+    "weburl": "www.raymondjames.com"
+  },
+  {
+    "companyname": "Rockwell Automation, Inc.",
+    "weburl": "www.rockwellautomation.com"
+  },
+  {
+    "companyname": "Rollins, Inc.",
+    "weburl": "www.rollins.com"
+  },
+  {
+    "companyname": "Ross Stores, Inc.",
+    "weburl": "www.rossstores.com"
+  },
+  {
+    "companyname": "SLB N.V.",
+    "weburl": "www.slb.com"
+  },
+  {
+    "companyname": "The Sherwin-Williams Company",
+    "weburl": "www.sherwin-williams.com"
+  },
+  {
+    "companyname": "A. O. Smith Corporation",
+    "weburl": "www.aosmith.com"
+  },
+  {
+    "companyname": "The J. M. Smucker Company",
+    "weburl": "www.jmsmucker.com"
+  },
+  {
+    "companyname": "Snap-on Incorporated",
+    "weburl": "www.snapon.com"
+  },
+  {
+    "companyname": "KeyCorp",
+    "weburl": "www.key.com"
+  },
+  {
+    "companyname": "Edison International",
+    "weburl": "www.edison.com"
+  },
+  {
+    "companyname": "The Southern Company",
+    "weburl": "www.southerncompany.com"
+  },
+  {
+    "companyname": "Southwest Airlines Co.",
+    "weburl": "www.southwest.com"
+  },
+  {
+    "companyname": "AT&T Inc.",
+    "weburl": "www.att.com"
+  },
+  {
+    "companyname": "Stanley Black & Decker, Inc.",
+    "weburl": "www.stanleyblackanddecker.com"
+  },
+  {
+    "companyname": "State Street Corporation",
+    "weburl": "www.statestreet.com"
+  },
+  {
+    "companyname": "Public Storage",
+    "weburl": "www.publicstorage.com"
+  },
+  {
+    "companyname": "Stryker Corporation",
+    "weburl": "www.stryker.com"
+  },
+  {
+    "companyname": "Sysco Corporation",
+    "weburl": "www.sysco.com"
+  },
+  {
+    "companyname": "Teradyne, Inc.",
+    "weburl": "www.teradyne.com"
+  },
+  {
+    "companyname": "Texas Instruments Incorporated",
+    "weburl": "www.ti.com"
+  },
+  {
+    "companyname": "Texas Pacific Land Corporation",
+    "weburl": "www.texaspacific.com"
+  },
+  {
+    "companyname": "Textron Inc.",
+    "weburl": "www.textron.com"
+  },
+  {
+    "companyname": "Thermo Fisher Scientific Inc.",
+    "weburl": "www.thermofisher.com"
+  },
+  {
+    "companyname": "Globe Life Inc.",
+    "weburl": "home.globelifeinsurance.com"
+  },
+  {
+    "companyname": "Tyler Technologies, Inc.",
+    "weburl": "www.tylertech.com"
+  },
+  {
+    "companyname": "Tyson Foods, Inc.",
+    "weburl": "www.tysonfoods.com"
+  },
+  {
+    "companyname": "United Airlines Holdings, Inc.",
+    "weburl": "www.united.com"
+  },
+  {
+    "companyname": "Ameren Corporation",
+    "weburl": "www.amereninvestors.com"
+  },
+  {
+    "companyname": "Union Pacific Corporation",
+    "weburl": "www.up.com"
+  },
+  {
+    "companyname": "UDR, Inc.",
+    "weburl": "www.udr.com"
+  },
+  {
+    "companyname": "UnitedHealth Group Incorporated",
+    "weburl": "www.unitedhealthgroup.com"
+  },
+  {
+    "companyname": "United Parcel Service, Inc.",
+    "weburl": "www.ups.com"
+  },
+  {
+    "companyname": "RTX Corporation",
+    "weburl": "www.rtx.com"
+  },
+  {
+    "companyname": "Universal Health Services, Inc.",
+    "weburl": "uhs.com"
+  },
+  {
+    "companyname": "Vulcan Materials Company",
+    "weburl": "www.vulcanmaterials.com"
+  },
+  {
+    "companyname": "Walmart Inc.",
+    "weburl": "www.stock.walmart.com"
+  },
+  {
+    "companyname": "West Pharmaceutical Services, Inc.",
+    "weburl": "www.westpharma.com"
+  },
+  {
+    "companyname": "Western Digital Corporation",
+    "weburl": "www.westerndigital.com"
+  },
+  {
+    "companyname": "Weyerhaeuser Company",
+    "weburl": "www.weyerhaeuser.com"
+  },
+  {
+    "companyname": "The Williams Companies, Inc.",
+    "weburl": "www.williams.com"
+  },
+  {
+    "companyname": "Williams-Sonoma, Inc.",
+    "weburl": "www.williams-sonomainc.com"
+  },
+  {
+    "companyname": "WEC Energy Group, Inc.",
+    "weburl": "www.wecenergygroup.com"
+  },
+  {
+    "companyname": "Alliant Energy Corporation",
+    "weburl": "www.alliantenergy.com"
+  },
+  {
+    "companyname": "The TJX Companies, Inc.",
+    "weburl": "www.tjx.com"
+  },
+  {
+    "companyname": "Jack Henry & Associates, Inc.",
+    "weburl": "www.jackhenry.com"
+  },
+  {
+    "companyname": "Truist Financial Corporation",
+    "weburl": "www.truist.com"
+  },
+  {
+    "companyname": "Morgan Stanley",
+    "weburl": "www.morganstanley.com"
+  },
+  {
+    "companyname": "T. Rowe Price Group, Inc.",
+    "weburl": "www.troweprice.com"
+  },
+  {
+    "companyname": "Microsoft Corporation",
+    "weburl": "www.microsoft.com"
+  },
+  {
+    "companyname": "Oracle Corporation",
+    "weburl": "www.oracle.com"
+  },
+  {
+    "companyname": "Gartner, Inc.",
+    "weburl": "www.gartner.com"
+  },
+  {
+    "companyname": "NVR, Inc.",
+    "weburl": "www.nvrinc.com"
+  },
+  {
+    "companyname": "Adobe Inc.",
+    "weburl": "www.adobe.com"
+  },
+  {
+    "companyname": "Fiserv, Inc.",
+    "weburl": "www.fiserv.com"
+  },
+  {
+    "companyname": "Healthpeak Properties, Inc.",
+    "weburl": "www.healthpeak.com"
+  },
+  {
+    "companyname": "The Progressive Corporation",
+    "weburl": "www.progressive.com"
+  },
+  {
+    "companyname": "Cadence Design Systems, Inc.",
+    "weburl": "www.cadence.com"
+  },
+  {
+    "companyname": "Carnival Corporation & plc",
+    "weburl": "www.carnivalcorp.com"
+  },
+  {
+    "companyname": "Paramount Skydance Corporation",
+    "weburl": "www.paramount.com"
+  },
+  {
+    "companyname": "Zoetis Inc.",
+    "weburl": "www.zoetis.com"
+  },
+  {
+    "companyname": "Fair Isaac Corporation",
+    "weburl": "www.fico.com"
+  },
+  {
+    "companyname": "The Charles Schwab Corporation",
+    "weburl": "www.aboutschwab.com"
+  },
+  {
+    "companyname": "Fastenal Company",
+    "weburl": "www.fastenal.com"
+  },
+  {
+    "companyname": "Amphenol Corporation",
+    "weburl": "www.amphenol.com"
+  },
+  {
+    "companyname": "MGM Resorts International",
+    "weburl": "www.mgmresorts.com"
+  },
+  {
+    "companyname": "Waste Management, Inc.",
+    "weburl": "www.wm.com"
+  },
+  {
+    "companyname": "Dell Technologies Inc.",
+    "weburl": "www.dell.com"
+  },
+  {
+    "companyname": "Coherent Corp.",
+    "weburl": "www.coherent.com"
+  },
+  {
+    "companyname": "Freeport-McMoRan Inc.",
+    "weburl": "fcx.com"
+  },
+  {
+    "companyname": "W. R. Berkley Corporation",
+    "weburl": "www.berkley.com"
+  },
+  {
+    "companyname": "Cincinnati Financial Corporation",
+    "weburl": "www.cinfin.com"
+  },
+  {
+    "companyname": "Devon Energy Corporation",
+    "weburl": "www.devonenergy.com"
+  },
+  {
+    "companyname": "Labcorp Holdings Inc.",
+    "weburl": "www.labcorp.com"
+  },
+  {
+    "companyname": "Workday, Inc.",
+    "weburl": "www.workday.com"
+  },
+  {
+    "companyname": "Valero Energy Corporation",
+    "weburl": "www.valero.com"
+  },
+  {
+    "companyname": "IDEX Corporation",
+    "weburl": "www.idexcorp.com"
+  },
+  {
+    "companyname": "Bio-Techne Corporation",
+    "weburl": "www.bio-techne.com"
+  },
+  {
+    "companyname": "Brown & Brown, Inc.",
+    "weburl": "www.bbrown.com"
+  },
+  {
+    "companyname": "CRH plc",
+    "weburl": "www.crh.com"
+  },
+  {
+    "companyname": "Gen Digital Inc.",
+    "weburl": "www.gendigital.com"
+  },
+  {
+    "companyname": "AbbVie Inc.",
+    "weburl": "www.abbvie.com"
+  },
+  {
+    "companyname": "EOG Resources, Inc.",
+    "weburl": "www.eogresources.com"
+  },
+  {
+    "companyname": "Electronic Arts Inc.",
+    "weburl": "www.ea.com"
+  },
+  {
+    "companyname": "T-Mobile US, Inc.",
+    "weburl": "www.t-mobile.com"
+  },
+  {
+    "companyname": "IQVIA Holdings Inc.",
+    "weburl": "www.iqvia.com"
+  },
+  {
+    "companyname": "News Corporation",
+    "weburl": "newscorp.com"
+  },
+  {
+    "companyname": "PTC Inc.",
+    "weburl": "www.ptc.com"
+  },
+  {
+    "companyname": "Keysight Technologies, Inc.",
+    "weburl": "www.keysight.com"
+  },
+  {
+    "companyname": "Ares Management Corporation",
+    "weburl": "www.aresmgmt.com"
+  },
+  {
+    "companyname": "Coterra Energy Inc.",
+    "weburl": "www.coterra.com"
+  },
+  {
+    "companyname": "Synchrony Financial",
+    "weburl": "www.synchrony.com"
+  },
+  {
+    "companyname": "Arista Networks, Inc.",
+    "weburl": "www.arista.com"
+  },
+  {
+    "companyname": "Cisco Systems, Inc.",
+    "weburl": "www.cisco.com"
+  },
+  {
+    "companyname": "Citizens Financial Group, Inc.",
+    "weburl": "www.citizensbank.com"
+  },
+  {
+    "companyname": "HCA Healthcare, Inc.",
+    "weburl": "www.hcahealthcare.com"
+  },
+  {
+    "companyname": "Trimble Inc.",
+    "weburl": "www.trimble.com"
+  },
+  {
+    "companyname": "GoDaddy Inc.",
+    "weburl": "www.godaddy.com"
+  },
+  {
+    "companyname": "Lumentum Holdings Inc.",
+    "weburl": "www.lumentum.com"
+  },
+  {
+    "companyname": "AutoZone, Inc.",
+    "weburl": "www.autozone.com"
+  },
+  {
+    "companyname": "Regeneron Pharmaceuticals, Inc.",
+    "weburl": "www.regeneron.com"
+  },
+  {
+    "companyname": "IDEXX Laboratories, Inc.",
+    "weburl": "www.idexx.com"
+  },
+  {
+    "companyname": "The AES Corporation",
+    "weburl": "www.aes.com"
+  },
+  {
+    "companyname": "Monster Beverage Corporation",
+    "weburl": "www.monsterbevcorp.com"
+  },
+  {
+    "companyname": "Vertex Pharmaceuticals Incorporated",
+    "weburl": "www.vrtx.com"
+  },
+  {
+    "companyname": "Zebra Technologies Corporation",
+    "weburl": "www.zebra.com"
+  },
+  {
+    "companyname": "Biogen Inc.",
+    "weburl": "www.biogen.com"
+  },
+  {
+    "companyname": "PayPal Holdings, Inc.",
+    "weburl": "www.paypal.com"
+  },
+  {
+    "companyname": "Old Dominion Freight Line, Inc.",
+    "weburl": "www.odfl.com"
+  },
+  {
+    "companyname": "Kimco Realty Corporation",
+    "weburl": "www.kimcorealty.com"
+  },
+  {
+    "companyname": "QUALCOMM Incorporated",
+    "weburl": "www.qualcomm.com"
+  },
+  {
+    "companyname": "Gilead Sciences, Inc.",
+    "weburl": "www.gilead.com"
+  },
+  {
+    "companyname": "Roper Technologies, Inc.",
+    "weburl": "www.ropertech.com"
+  },
+  {
+    "companyname": "Synopsys, Inc.",
+    "weburl": "www.synopsys.com"
+  },
+  {
+    "companyname": "Linde plc",
+    "weburl": "www.linde.com"
+  },
+  {
+    "companyname": "Boston Scientific Corporation",
+    "weburl": "www.bostonscientific.com"
+  },
+  {
+    "companyname": "STERIS plc",
+    "weburl": "www.steris.com"
+  },
+  {
+    "companyname": "D.R. Horton, Inc.",
+    "weburl": "www.drhorton.com"
+  },
+  {
+    "companyname": "Starbucks Corporation",
+    "weburl": "www.starbucks.com"
+  },
+  {
+    "companyname": "Hewlett Packard Enterprise Company",
+    "weburl": "www.hpe.com"
+  },
+  {
+    "companyname": "Block, Inc.",
+    "weburl": "www.block.xyz"
+  },
+  {
+    "companyname": "Fortive Corporation",
+    "weburl": "www.fortive.com"
+  },
+  {
+    "companyname": "Expand Energy Corporation",
+    "weburl": "www.expandenergy.com"
+  },
+  {
+    "companyname": "The Trade Desk, Inc.",
+    "weburl": "www.thetradedesk.com"
+  },
+  {
+    "companyname": "Humana Inc.",
+    "weburl": "www.humana.com"
+  },
+  {
+    "companyname": "Intuit Inc.",
+    "weburl": "www.intuit.com"
+  },
+  {
+    "companyname": "Microchip Technology Incorporated",
+    "weburl": "www.microchip.com"
+  },
+  {
+    "companyname": "Chubb Limited",
+    "weburl": "www.chubb.com"
+  },
+  {
+    "companyname": "O'Reilly Automotive, Inc.",
+    "weburl": "www.oreillyauto.com"
+  },
+  {
+    "companyname": "Royal Caribbean Cruises Ltd.",
+    "weburl": "www.rclinvestor.com"
+  },
+  {
+    "companyname": "Howmet Aerospace Inc.",
+    "weburl": "www.howmet.com"
+  },
+  {
+    "companyname": "Jabil Inc.",
+    "weburl": "www.jabil.com"
+  },
+  {
+    "companyname": "CDW Corporation",
+    "weburl": "www.cdw.com"
+  },
+  {
+    "companyname": "The Allstate Corporation",
+    "weburl": "www.allstate.com"
+  },
+  {
+    "companyname": "Camden Property Trust",
+    "weburl": "www.camdenliving.com"
+  },
+  {
+    "companyname": "Equity Residential",
+    "weburl": "www.equityapartments.com"
+  },
+  {
+    "companyname": "Keurig Dr Pepper Inc.",
+    "weburl": "www.keurigdrpepper.com"
+  },
+  {
+    "companyname": "Marriott International, Inc.",
+    "weburl": "www.marriott.com"
+  },
+  {
+    "companyname": "Deckers Outdoor Corporation",
+    "weburl": "www.deckers.com"
+  },
+  {
+    "companyname": "Costco Wholesale Corporation",
+    "weburl": "www.costco.com"
+  },
+  {
+    "companyname": "Regency Centers Corporation",
+    "weburl": "www.regencycenters.com"
+  },
+  {
+    "companyname": "Incyte Corporation",
+    "weburl": "www.incyte.com"
+  },
+  {
+    "companyname": "Simon Property Group, Inc.",
+    "weburl": "www.simon.com"
+  },
+  {
+    "companyname": "Mid-America Apartment Communities, Inc.",
+    "weburl": "www.maac.com"
+  },
+  {
+    "companyname": "Martin Marietta Materials, Inc.",
+    "weburl": "www.martinmarietta.com"
+  },
+  {
+    "companyname": "Tractor Supply Company",
+    "weburl": "www.tractorsupply.com"
+  },
+  {
+    "companyname": "Albemarle Corporation",
+    "weburl": "www.albemarle.com"
+  },
+  {
+    "companyname": "Invesco Ltd.",
+    "weburl": "www.invesco.com/corporate/en/home.html"
+  },
+  {
+    "companyname": "AvalonBay Communities, Inc.",
+    "weburl": "www.avalonbay.com"
+  },
+  {
+    "companyname": "Copart, Inc.",
+    "weburl": "www.copart.com"
+  },
+  {
+    "companyname": "Prologis, Inc.",
+    "weburl": "www.prologis.com"
+  },
+  {
+    "companyname": "Invitation Homes Inc.",
+    "weburl": "www.invitationhomes.com"
+  },
+  {
+    "companyname": "Ingersoll Rand Inc.",
+    "weburl": "www.irco.com"
+  },
+  {
+    "companyname": "Essex Property Trust, Inc.",
+    "weburl": "www.essexapartmenthomes.com"
+  },
+  {
+    "companyname": "Realty Income Corporation",
+    "weburl": "www.realtyincome.com"
+  },
+  {
+    "companyname": "Capital One Financial Corporation",
+    "weburl": "www.capitalone.com"
+  },
+  {
+    "companyname": "Carvana Co.",
+    "weburl": "www.carvana.com"
+  },
+  {
+    "companyname": "Dollar Tree, Inc.",
+    "weburl": "www.dollartree.com"
+  },
+  {
+    "companyname": "Cencora, Inc.",
+    "weburl": "www.cencora.com"
+  },
+  {
+    "companyname": "Darden Restaurants, Inc.",
+    "weburl": "www.darden.com"
+  },
+  {
+    "companyname": "ResMed Inc.",
+    "weburl": "www.resmed.com"
+  },
+  {
+    "companyname": "Baker Hughes Company",
+    "weburl": "www.bakerhughes.com"
+  },
+  {
+    "companyname": "VICI Properties Inc.",
+    "weburl": "www.viciproperties.com"
+  },
+  {
+    "companyname": "Moderna, Inc.",
+    "weburl": "www.modernatx.com"
+  },
+  {
+    "companyname": "Dow Inc.",
+    "weburl": "www.dow.com"
+  },
+  {
+    "companyname": "Fox Corporation",
+    "weburl": "www.foxcorporation.com"
+  },
+  {
+    "companyname": "Coinbase Global, Inc.",
+    "weburl": "www.coinbase.com"
+  },
+  {
+    "companyname": "Uber Technologies, Inc.",
+    "weburl": "www.uber.com"
+  },
+  {
+    "companyname": "Corteva, Inc.",
+    "weburl": "www.corteva.com"
+  },
+  {
+    "companyname": "CrowdStrike Holdings, Inc.",
+    "weburl": "www.crowdstrike.com"
+  },
+  {
+    "companyname": "Datadog, Inc.",
+    "weburl": "www.datadoghq.com"
+  },
+  {
+    "companyname": "Vertiv Holdings Co",
+    "weburl": "www.vertiv.com"
+  },
+  {
+    "companyname": "Otis Worldwide Corporation",
+    "weburl": "www.otis.com"
+  },
+  {
+    "companyname": "Carrier Global Corporation",
+    "weburl": "www.carrier.com"
+  },
+  {
+    "companyname": "Palantir Technologies Inc.",
+    "weburl": "www.palantir.com"
+  },
+  {
+    "companyname": "DoorDash, Inc.",
+    "weburl": "www.doordash.com"
+  },
+  {
+    "companyname": "Airbnb, Inc.",
+    "weburl": "www.airbnb.com"
+  },
+  {
+    "companyname": "AppLovin Corporation",
+    "weburl": "www.applovin.com"
+  },
+  {
+    "companyname": "Robinhood Markets, Inc.",
+    "weburl": "robinhood.com"
+  },
+  {
+    "companyname": "Constellation Energy Corporation",
+    "weburl": "www.constellationenergy.com"
+  },
+  {
+    "companyname": "GE HealthCare Technologies Inc.",
+    "weburl": "www.gehealthcare.com"
+  },
+  {
+    "companyname": "Kenvue Inc.",
+    "weburl": "www.kenvue.com"
+  },
+  {
+    "companyname": "Veralto Corporation",
+    "weburl": "www.veralto.com"
+  },
+  {
+    "companyname": "Solventum Corporation",
+    "weburl": "www.solventum.com"
+  },
+  {
+    "companyname": "GE Vernova Inc.",
+    "weburl": "www.gevernova.com"
+  },
+  {
+    "companyname": "Sandisk Corporation",
+    "weburl": "www.sandisk.com"
+  },
+  {
+    "companyname": "Westinghouse Air Brake Technologies Corporation",
+    "weburl": "www.wabteccorp.com"
+  },
+  {
+    "companyname": "Arch Capital Group Ltd.",
+    "weburl": "www.archgroup.com"
+  },
+  {
+    "companyname": "Erie Indemnity Company",
+    "weburl": "www.erieinsurance.com"
+  },
+  {
+    "companyname": "Everest Group, Ltd.",
+    "weburl": "www.everestglobal.com"
+  },
+  {
+    "companyname": "Pool Corporation",
+    "weburl": "www.poolcorp.com"
+  },
+  {
+    "companyname": "DaVita Inc.",
+    "weburl": "www.davita.com"
+  },
+  {
+    "companyname": "Henry Schein, Inc.",
+    "weburl": "www.henryschein.com"
+  },
+  {
+    "companyname": "The Estée Lauder Companies Inc.",
+    "weburl": "www.elcompanies.com"
+  },
+  {
+    "companyname": "Waters Corporation",
+    "weburl": "www.waters.com"
+  },
+  {
+    "companyname": "NetApp, Inc.",
+    "weburl": "www.netapp.com"
+  },
+  {
+    "companyname": "The Hartford Insurance Group, Inc.",
+    "weburl": "www.thehartford.com"
+  },
+  {
+    "companyname": "Iron Mountain Incorporated",
+    "weburl": "www.ironmountain.com"
+  },
+  {
+    "companyname": "The Travelers Companies, Inc.",
+    "weburl": "www.travelers.com"
+  },
+  {
+    "companyname": "FactSet Research Systems Inc.",
+    "weburl": "www.factset.com"
+  },
+  {
+    "companyname": "Steel Dynamics, Inc.",
+    "weburl": "www.steeldynamics.com"
+  },
+  {
+    "companyname": "Quest Diagnostics Incorporated",
+    "weburl": "www.questdiagnostics.com"
+  },
+  {
+    "companyname": "Ciena Corporation",
+    "weburl": "www.ciena.com"
+  },
+  {
+    "companyname": "Take-Two Interactive Software, Inc.",
+    "weburl": "www.take2games.com"
+  },
+  {
+    "companyname": "Amazon.com, Inc.",
+    "weburl": "www.amazon.com"
+  },
+  {
+    "companyname": "Alexandria Real Estate Equities, Inc.",
+    "weburl": "www.are.com"
+  },
+  {
+    "companyname": "Ralph Lauren Corporation",
+    "weburl": "www.corporate.ralphlauren.com"
+  },
+  {
+    "companyname": "BXP, Inc.",
+    "weburl": "www.bxp.com"
+  },
+  {
+    "companyname": "Comfort Systems USA, Inc.",
+    "weburl": "comfortsystemsusa.com"
+  },
+  {
+    "companyname": "Yum! Brands, Inc.",
+    "weburl": "www.yum.com"
+  },
+  {
+    "companyname": "C.H. Robinson Worldwide, Inc.",
+    "weburl": "www.chrobinson.com"
+  },
+  {
+    "companyname": "Mettler-Toledo International Inc.",
+    "weburl": "www.mt.com"
+  },
+  {
+    "companyname": "United Rentals, Inc.",
+    "weburl": "www.unitedrentals.com"
+  },
+  {
+    "companyname": "VeriSign, Inc.",
+    "weburl": "www.verisign.com"
+  },
+  {
+    "companyname": "Quanta Services, Inc.",
+    "weburl": "www.quantaservices.com"
+  },
+  {
+    "companyname": "Qnity Electronics, Inc.",
+    "weburl": "www.qnityelectronics.com"
+  },
+  {
+    "companyname": "Amcor plc",
+    "weburl": "www.amcor.com"
+  },
+  {
+    "companyname": "Norwegian Cruise Line Holdings Ltd.",
+    "weburl": "www.nclhltd.com"
+  },
+  {
+    "companyname": "American Tower Corporation",
+    "weburl": "www.americantower.com"
+  },
+  {
+    "companyname": "Ventas, Inc.",
+    "weburl": "www.ventasreit.com"
+  },
+  {
+    "companyname": "Cognizant Technology Solutions Corporation",
+    "weburl": "www.cognizant.com"
+  },
+  {
+    "companyname": "CoStar Group, Inc.",
+    "weburl": "www.costargroup.com"
+  },
+  {
+    "companyname": "Republic Services, Inc.",
+    "weburl": "www.republicservices.com"
+  },
+  {
+    "companyname": "Crown Castle Inc.",
+    "weburl": "www.crowncastle.com"
+  },
+  {
+    "companyname": "eBay Inc.",
+    "weburl": "www.ebayinc.com"
+  },
+  {
+    "companyname": "The Goldman Sachs Group, Inc.",
+    "weburl": "www.goldmansachs.com"
+  },
+  {
+    "companyname": "NVIDIA Corporation",
+    "weburl": "www.nvidia.com"
+  },
+  {
+    "companyname": "Aptiv PLC",
+    "weburl": "www.aptiv.com"
+  },
+  {
+    "companyname": "Booking Holdings Inc.",
+    "weburl": "www.bookingholdings.com"
+  },
+  {
+    "companyname": "F5, Inc.",
+    "weburl": "www.f5.com"
+  },
+  {
+    "companyname": "SBA Communications Corporation",
+    "weburl": "www.sbasite.com"
+  },
+  {
+    "companyname": "Lennox International Inc.",
+    "weburl": "www.lennox.com"
+  },
+  {
+    "companyname": "BlackRock, Inc.",
+    "weburl": "www.blackrock.com"
+  },
+  {
+    "companyname": "TKO Group Holdings, Inc.",
+    "weburl": "tkogrp.com"
+  },
+  {
+    "companyname": "Akamai Technologies, Inc.",
+    "weburl": "www.akamai.com"
+  },
+  {
+    "companyname": "Charter Communications, Inc.",
+    "weburl": "corporate.charter.com"
+  },
+  {
+    "companyname": "Expedia Group, Inc.",
+    "weburl": "www.expediagroup.com"
+  },
+  {
+    "companyname": "Agilent Technologies, Inc.",
+    "weburl": "www.agilent.com"
+  },
+  {
+    "companyname": "Teledyne Technologies Incorporated",
+    "weburl": "www.teledyne.com"
+  },
+  {
+    "companyname": "Packaging Corporation of America",
+    "weburl": "www.packagingcorp.com"
+  },
+  {
+    "companyname": "Edwards Lifesciences Corporation",
+    "weburl": "www.edwards.com"
+  },
+  {
+    "companyname": "MetLife, Inc.",
+    "weburl": "www.metlife.com"
+  },
+  {
+    "companyname": "ON Semiconductor Corporation",
+    "weburl": "www.onsemi.com"
+  },
+  {
+    "companyname": "NRG Energy, Inc.",
+    "weburl": "www.nrg.com"
+  },
+  {
+    "companyname": "Intuitive Surgical, Inc.",
+    "weburl": "www.intuitive.com"
+  },
+  {
+    "companyname": "Charles River Laboratories International, Inc.",
+    "weburl": "www.criver.com"
+  },
+  {
+    "companyname": "Equinix, Inc.",
+    "weburl": "www.equinix.com"
+  },
+  {
+    "companyname": "Moody's Corporation",
+    "weburl": "www.moodys.com"
+  },
+  {
+    "companyname": "Tapestry, Inc.",
+    "weburl": "www.tapestry.com"
+  },
+  {
+    "companyname": "Align Technology, Inc.",
+    "weburl": "www.aligntech.com"
+  },
+  {
+    "companyname": "Garmin Ltd.",
+    "weburl": "www.garmin.com"
+  },
+  {
+    "companyname": "Global Payments Inc.",
+    "weburl": "www.globalpayments.com/en-ap"
+  },
+  {
+    "companyname": "Mondelez International, Inc.",
+    "weburl": "www.mondelezinternational.com"
+  },
+  {
+    "companyname": "Prudential Financial, Inc.",
+    "weburl": "www.prudential.com"
+  },
+  {
+    "companyname": "Accenture plc",
+    "weburl": "www.accenture.com"
+  },
+  {
+    "companyname": "Axon Enterprise, Inc.",
+    "weburl": "www.axon.com"
+  },
+  {
+    "companyname": "Willis Towers Watson Public Limited Company",
+    "weburl": "www.wtwco.com"
+  },
+  {
+    "companyname": "Bunge Global SA",
+    "weburl": "www.bunge.com"
+  },
+  {
+    "companyname": "Zimmer Biomet Holdings, Inc.",
+    "weburl": "www.zimmerbiomet.com"
+  },
+  {
+    "companyname": "Elevance Health, Inc.",
+    "weburl": "www.elevancehealth.com"
+  },
+  {
+    "companyname": "Centene Corporation",
+    "weburl": "www.centene.com"
+  },
+  {
+    "companyname": "Principal Financial Group, Inc.",
+    "weburl": "www.principal.com"
+  },
+  {
+    "companyname": "Netflix, Inc.",
+    "weburl": "www.netflix.com"
+  },
+  {
+    "companyname": "TransDigm Group Incorporated",
+    "weburl": "www.transdigm.com"
+  },
+  {
+    "companyname": "CME Group Inc.",
+    "weburl": "www.cmegroup.com"
+  },
+  {
+    "companyname": "Wynn Resorts, Limited",
+    "weburl": "www.wynnresorts.com"
+  },
+  {
+    "companyname": "Nasdaq, Inc.",
+    "weburl": "www.nasdaq.com"
+  },
+  {
+    "companyname": "Seagate Technology Holdings plc",
+    "weburl": "www.seagate.com"
+  },
+  {
+    "companyname": "Assurant, Inc.",
+    "weburl": "www.assurant.com"
+  },
+  {
+    "companyname": "Vistra Corp.",
+    "weburl": "vistracorp.com"
+  },
+  {
+    "companyname": "Salesforce, Inc.",
+    "weburl": "www.salesforce.com"
+  },
+  {
+    "companyname": "Domino's Pizza, Inc.",
+    "weburl": "biz.dominos.com"
+  },
+  {
+    "companyname": "Mastercard Incorporated",
+    "weburl": "www.mastercard.com"
+  },
+  {
+    "companyname": "Alphabet Inc.",
+    "weburl": "abc.xyz"
+  },
+  {
+    "companyname": "Extra Space Storage Inc.",
+    "weburl": "www.extraspace.com"
+  },
+  {
+    "companyname": "Monolithic Power Systems, Inc.",
+    "weburl": "www.monolithicpower.com"
+  },
+  {
+    "companyname": "Digital Realty Trust, Inc.",
+    "weburl": "www.digitalrealty.com"
+  },
+  {
+    "companyname": "Las Vegas Sands Corp.",
+    "weburl": "www.sands.com"
+  },
+  {
+    "companyname": "The Mosaic Company",
+    "weburl": "www.mosaicco.com"
+  },
+  {
+    "companyname": "DexCom, Inc.",
+    "weburl": "www.dexcom.com"
+  },
+  {
+    "companyname": "Builders FirstSource, Inc.",
+    "weburl": "www.bldr.com"
+  },
+  {
+    "companyname": "Intercontinental Exchange, Inc.",
+    "weburl": "www.ice.com"
+  },
+  {
+    "companyname": "CF Industries Holdings, Inc.",
+    "weburl": "www.cfindustries.com"
+  },
+  {
+    "companyname": "Warner Bros. Discovery, Inc.",
+    "weburl": "www.wbd.com"
+  },
+  {
+    "companyname": "Ameriprise Financial, Inc.",
+    "weburl": "www.ameriprise.com"
+  },
+  {
+    "companyname": "Leidos Holdings, Inc.",
+    "weburl": "www.leidos.com"
+  },
+  {
+    "companyname": "Live Nation Entertainment, Inc.",
+    "weburl": "www.livenationentertainment.com"
+  },
+  {
+    "companyname": "Chipotle Mexican Grill, Inc.",
+    "weburl": "www.chipotle.com"
+  },
+  {
+    "companyname": "Fidelity National Information Services, Inc.",
+    "weburl": "www.fisglobal.com"
+  },
+  {
+    "companyname": "Meta Platforms, Inc.",
+    "weburl": "www.meta.com"
+  },
+  {
+    "companyname": "Diamondback Energy, Inc.",
+    "weburl": "www.diamondbackenergy.com"
+  },
+  {
+    "companyname": "Phillips 66",
+    "weburl": "www.phillips66.com"
+  },
+  {
+    "companyname": "ServiceNow, Inc.",
+    "weburl": "www.servicenow.com"
+  },
+  {
+    "companyname": "Palo Alto Networks, Inc.",
+    "weburl": "www.paloaltonetworks.com"
+  },
+  {
+    "companyname": "First Solar, Inc.",
+    "weburl": "www.firstsolar.com"
+  },
+  {
+    "companyname": "Super Micro Computer, Inc.",
+    "weburl": "www.supermicro.com"
+  },
+  {
+    "companyname": "Interactive Brokers Group, Inc.",
+    "weburl": "www.interactivebrokers.com"
+  },
+  {
+    "companyname": "Broadridge Financial Solutions, Inc.",
+    "weburl": "www.broadridge.com"
+  },
+  {
+    "companyname": "Blackstone Inc.",
+    "weburl": "www.blackstone.com"
+  },
+  {
+    "companyname": "Insulet Corporation",
+    "weburl": "www.insulet.com"
+  },
+  {
+    "companyname": "TE Connectivity plc",
+    "weburl": "www.te.com"
+  },
+  {
+    "companyname": "lululemon athletica inc.",
+    "weburl": "corporate.lululemon.com"
+  },
+  {
+    "companyname": "MSCI Inc.",
+    "weburl": "www.msci.com"
+  },
+  {
+    "companyname": "Ulta Beauty, Inc.",
+    "weburl": "www.ulta.com"
+  },
+  {
+    "companyname": "EchoStar Corporation",
+    "weburl": "www.echostar.com"
+  },
+  {
+    "companyname": "American Water Works Company, Inc.",
+    "weburl": "www.amwater.com"
+  },
+  {
+    "companyname": "Visa Inc.",
+    "weburl": "www.visa.com"
+  },
+  {
+    "companyname": "Philip Morris International Inc.",
+    "weburl": "www.pmi.com"
+  },
+  {
+    "companyname": "KKR & Co. Inc.",
+    "weburl": "www.kkr.com"
+  },
+  {
+    "companyname": "Verisk Analytics, Inc.",
+    "weburl": "www.verisk.com"
+  },
+  {
+    "companyname": "Broadcom Inc.",
+    "weburl": "www.broadcom.com"
+  },
+  {
+    "companyname": "Fortinet, Inc.",
+    "weburl": "www.fortinet.com"
+  },
+  {
+    "companyname": "Generac Holdings Inc.",
+    "weburl": "www.generac.com"
+  },
+  {
+    "companyname": "Apollo Global Management, Inc.",
+    "weburl": "www.apollo.com/institutional/homepage"
+  },
+  {
+    "companyname": "Cboe Global Markets, Inc.",
+    "weburl": "www.cboe.com"
+  },
+  {
+    "companyname": "Corpay, Inc.",
+    "weburl": "www.corpay.com"
+  },
+  {
+    "companyname": "NXP Semiconductors N.V.",
+    "weburl": "www.nxp.com"
+  },
+  {
+    "companyname": "Tesla, Inc.",
+    "weburl": "www.tesla.com"
+  },
+  {
+    "companyname": "Targa Resources Corp.",
+    "weburl": "www.targaresources.com"
+  },
+  {
+    "companyname": "Huntington Ingalls Industries, Inc.",
+    "weburl": "www.hii.com"
+  },
+  {
+    "companyname": "Marathon Petroleum Corporation",
+    "weburl": "www.marathonpetroleum.com"
+  },
+  {
+    "companyname": "EPAM Systems, Inc.",
+    "weburl": "www.epam.com"
+  },
+  {
+    "companyname": "Xylem Inc.",
+    "weburl": "www.xylem.com"
+  },
+  {
+    "companyname": "CBRE Group, Inc.",
+    "weburl": "www.cbre.com"
+  },
+  {
+    "companyname": "Smurfit Westrock Plc",
+    "weburl": "www.smurfitwestrock.com"
+  },
+  {
+    "companyname": "LyondellBasell Industries N.V.",
+    "weburl": "www.lyondellbasell.com"
+  },
+  {
+    "companyname": "Allegion plc",
+    "weburl": "www.allegion.com/corp/en/index.html"
+  }
+]
