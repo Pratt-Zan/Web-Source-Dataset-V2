@@ -600,6 +600,8 @@ Since the 50 company sets are fully independent, they can be processed in parall
 
 Where **T** ≈ (avg pages per set) × (avg page load time)
 
+Tip: After several tests using different settings on the parallel number, 8 windows works well on the end with 16 GB RAM and 24 core CPU. The best condition for different number setting should base on the situation of the end itself, to choose a suitable number.
+
 ### Strategy 1: Multiple Terminals / Console Windows
 
 The simplest approach — open multiple terminal windows and run different subsets in each.
@@ -1184,6 +1186,8 @@ python main_text.py --set 5
 | 资源利用率 | 低（1 个浏览器，约 1 个 CPU 核心） | 高（N 个浏览器，N 个 CPU 核心） |
 
 其中 **T** ≈（每个集合平均页面数）×（平均页面加载时间）
+
+Tip: 在并行数量上使用不同设置进行多次测试后，最终发现，在16 GB内存和24核CPU的配置下，8个窗口运行良好。不同数量设置下的最佳条件应根据终端本身的情况来选择合适的数量。
 
 ### 策略 1：多终端 / 控制台窗口
 
