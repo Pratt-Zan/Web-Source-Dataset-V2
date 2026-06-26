@@ -744,11 +744,11 @@ python python_code/main_text.py --set 2
 ### Typical Workflow for Large Crawls
 
 ```
-1. Run Phase 1 (data split) → 30 seconds
+1. Run Phase 1 (data split) 
 2. Run Phase 2 (URL discovery) on a few test sets → verify output quality
-3. Run Phase 2 on all 50 sets in parallel batches → 2-8 hours (depending on depth)
+3. Run Phase 2 on all 50 sets in parallel batches 
 4. Run Phase 3 (text extraction) on a few test sets → verify text quality
-5. Run Phase 3 on all 50 sets in parallel → 1-4 hours
+5. Run Phase 3 on all 50 sets in parallel
 ```
 
 ### Configuration Parameters
@@ -1328,11 +1328,11 @@ python python_code/main_text.py --set 2
 ### 大型爬取的典型工作流
 
 ```
-1. 运行阶段 1（数据拆分）→ 30 秒
+1. 运行阶段 1（数据拆分）
 2. 在几个测试集上运行阶段 2（URL 发现）→ 验证输出质量
-3. 在所有 50 个集合上并行批量运行阶段 2 → 2-8 小时（取决于深度）
+3. 在所有 50 个集合上并行批量运行阶段 2 
 4. 在几个测试集上运行阶段 3（文本提取）→ 验证文本质量
-5. 在所有 50 个集合上并行运行阶段 3 → 1-4 小时
+5. 在所有 50 个集合上并行运行阶段 3 
 ```
 
 ### 配置参数
